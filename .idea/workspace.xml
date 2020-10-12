@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ed509357-ddc7-4de8-a682-fb578bbd23c6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1ilzhW0QbJqKWzTOXWUFoylm9VG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed509357-ddc7-4de8-a682-fb578bbd23c6" name="Default Changelist" comment="" />
+      <created>1602497085855</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602497085855</updated>
+      <workItem from="1602497086919" duration="3207000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1186" y="236" width="497" height="568" key="NewPhpClassDialog" timestamp="1602498009142">
+      <screen x="0" y="27" width="1920" height="979" />
+    </state>
+    <state x="1186" y="236" width="497" height="568" key="NewPhpClassDialog/0.27.1920.979@0.27.1920.979" timestamp="1602498009142" />
+    <state x="932" y="27" width="686" height="656" key="dock-window-1" timestamp="1602497245733">
+      <screen x="0" y="27" width="1920" height="979" />
+    </state>
+    <state x="932" y="27" width="686" height="656" key="dock-window-1/0.27.1920.979@0.27.1920.979" timestamp="1602497245733" />
+    <state x="1103" y="240" width="672" height="678" key="search.everywhere.popup" timestamp="1602497307540">
+      <screen x="0" y="27" width="1920" height="979" />
+    </state>
+    <state x="1103" y="240" width="672" height="678" key="search.everywhere.popup/0.27.1920.979@0.27.1920.979" timestamp="1602497307540" />
+  </component>
+</project>
