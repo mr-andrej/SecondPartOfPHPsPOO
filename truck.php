@@ -14,11 +14,12 @@ class truck extends Vehicle
      */
     public $currentLoad = 0; // Starts off empty
 
-    public function __construct(string $color, int $nbSeats, int $storageCapacity, int $energy)
+    public function __construct(string $color, int $nbSeats, int $storageCapacity, string $energy, int $energyLevel)
     {
         parent::__construct($color, $nbSeats);
         $this->storageCapacity = $storageCapacity;
         $this->energy = $energy;
+        $this->energyLevel = $energyLevel;
     }
 
     public function isTruckFull(): string
